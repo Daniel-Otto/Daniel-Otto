@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel-Otto
-- 👀 I’m interested in C, C#, Embedded Systems, Space and Astronomy, Minerals, Computer-Hardware, Gaming, Jogging, Cycling, Yoga, Chess, Meditation, Lego, E-Guitar, 3D-Printing, CAD, ...
+- 👀 I’m interested in C, C#, Embedded Systems, Space and Astronomy, Minerals, Computer-Hardware, Gaming, Jogging, Cycling, Yoga, Chess, Meditation, Lego, E-Guitar, 3D-Printing, CAD, FPGA, ...
 - 🌱 I’m currently learning somewhat from above
 - ~~💞️ I’m looking to collaborate on ...~~
 - 📫 How to reach me: daniel-otto.com
